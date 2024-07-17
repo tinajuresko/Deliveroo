@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "deliveroo",
-    "slug": "deliveroo",
+    "slug": "deliverooapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cd1f8b2b-fb45-4aee-b267-671e9ff77053"
+      }
+    },
+    "owner": "tinajuresko",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/cd1f8b2b-fb45-4aee-b267-671e9ff77053"
     }
   }
 }
