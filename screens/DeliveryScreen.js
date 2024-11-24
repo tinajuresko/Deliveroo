@@ -47,7 +47,7 @@ const DeliveryScreen = () => {
         longitudeDelta: 0.05,
       }}
       className='flex-1 mt-10 z-0'
-      mapType='mutedStandard'
+      mapType='standard'
       >
         <Marker
             coordinate={{

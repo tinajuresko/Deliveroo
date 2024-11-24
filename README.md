@@ -4,7 +4,7 @@ This project is built with Expo and React Native, integrating various technologi
 
 ### Expo Link
 
-[View on Expo](https://expo.dev/preview/update?message=Deliveroo%20created&updateRuntimeVersion=1.0.0&createdAt=2024-07-17T19%3A35%3A52.555Z&slug=exp&projectId=cd1f8b2b-fb45-4aee-b267-671e9ff77053&group=f4d93057-7227-4dd9-9abd-9b67340c85b3)
+[View on Expo](https://expo.dev/preview/update?message=%20Deliveroo%20update&updateRuntimeVersion=1.0.0&createdAt=2024-11-24T14%3A13%3A23.413Z&slug=exp&projectId=cd1f8b2b-fb45-4aee-b267-671e9ff77053&group=0274b3ab-8bab-495b-af30-809f3d72520a)
 
 You will be given a qr code for the application.
 

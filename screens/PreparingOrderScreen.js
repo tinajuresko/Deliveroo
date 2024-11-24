@@ -1,9 +1,10 @@
-import { View, Text } from 'react-native'
+import { View, Text, Image } from 'react-native'
 import React, { useEffect } from 'react'
 import { SafeAreaView } from 'react-native-safe-area-context'
 import * as Animatable from 'react-native-animatable'
 import * as Progress from 'react-native-progress'
 import { useNavigation } from '@react-navigation/native'
+import FastImage from 'react-native-fast-image';
 
 const PreparingOrderScreen = () => {
     const navigation = useNavigation()
